@@ -4,7 +4,7 @@ import "./index.css";
 function App() {
   return (
     <div className="App">
-      <p className="text-3xl"> vite reactjs app</p>
+      <p className="text-3xl"> </p>
     </div>
   );
 }
